@@ -1,0 +1,8 @@
+theme: slate
+title: Facturas y Respuestas
+description: Colección de fragmentos de código para leer documentos electrónicos en Excel con PowerQuery
+
+show_downloads: true
+
+github:
+  zip_url: https://github.com/facturasyrespuestas/powerquery/raw/refs/heads/main/importador_facturas.xlsx

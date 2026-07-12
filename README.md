@@ -2,11 +2,11 @@
 
 Fragmentos de código en lenguaje M de PowerQuery para consultar documentos electrónicos DIAN-XML desde Excel o Power BI
 
-Cortesía de Creativos Digitales S.A.S.  https://creativosdigitales.co
+Cortesía de Creativos Digitales S.A.S.  [https://creativosdigitales.co](https://creativosdigitales.co)
 
-Encuentre el código fuente en https://github.com/facturasyrespuestas/powerquery
+Encuentre el código fuente en [https://github.com/facturasyrespuestas/powerquery](https://github.com/facturasyrespuestas/powerquery)
 
-Si tiene dudas sobre facturación electrónica, sobre el uso de estos scripts o quiere proponer alguna funcionalidad nueva, puede hacerlo a través de https://facturasyrespuestas.com
+Si tiene dudas sobre facturación electrónica, sobre el uso de estos scripts o quiere proponer alguna funcionalidad nueva, puede hacerlo a través de [https://facturasyrespuestas.com](https://facturasyrespuestas.com)
 
 También está invitado a participar en la construcción de este repositorio. Síentase en libertad de escribir a través de la funcionalidad de Issues o Mensajes directos.
 
