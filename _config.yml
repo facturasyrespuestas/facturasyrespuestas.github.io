@@ -1,7 +1,6 @@
-theme: slate
-remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+remote_theme: pages-themes/slate@v0.2.0
 
 title: Facturas y Respuestas
 description: Colección de fragmentos de código para leer documentos electrónicos en Excel con PowerQuery
