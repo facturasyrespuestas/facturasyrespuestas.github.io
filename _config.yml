@@ -1,8 +1,13 @@
 theme: slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: Facturas y Respuestas
 description: Colección de fragmentos de código para leer documentos electrónicos en Excel con PowerQuery
 
 show_downloads: true
+google_analytics: G-880BEYBQEG
 
 github:
   zip_url: https://github.com/facturasyrespuestas/powerquery/raw/refs/heads/main/importador_facturas.xlsx
